@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Elon Musk Logo">
+  <img src="assets/logo.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>Elon Musk Bot</b>
+  <b>Eva Maria Bot</b>
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/M2BOTZ/Elon-Musk-Bot-M2?style=flat-square&color=yellow)](https://github.com/M2BOTZ/Elon-Musk-Bot-M2/stargazers)
-[![Forks](https://img.shields.io/github/forks/M2BOTZ/Elon-Musk-Bot-M2?style=flat-square&color=orange)](https://github.com/M2BOTZ/Elon-Musk-Bot-M2/fork)
-[![Size](https://img.shields.io/github/repo-size/M2BOTZ/Elon-Musk-Bot-M2?style=flat-square&color=green)](https://github.com/M2BOTZ/Elon-Musk-Bot-M2/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/M2BOTZ/Elon-Musk-Bot-M2)   
-[![Contributors](https://img.shields.io/github/contributors/M2BOTZ/Elon-Musk-Bot-M2?style=flat-square&color=green)](https://github.com/M2BOTZ/Elon-Musk-Bot-M2/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/m2Link/M2FILTER/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/M2BOTZ/Elon-Musk-Bot-M2.svg)](https://stars.medv.io/M2BOTZ/Elon-Musk-Bot-M2)
+[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
+[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
+[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
+[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
 
 ## Features
@@ -43,7 +43,7 @@
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
-* Check [info.py](https://github.com/M2BOTZ/Elon-Musk-Bot-M2/blob/master/info.py) for more
+* Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
 
 
 ## Deploy
@@ -54,7 +54,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/M2BOTZ/Elon-Musk-Bot-M2/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/EvamariaTG/evamaria/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -63,7 +63,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/M2BOTZ/Elon-Musk-Bot-M2
+git clone https://github.com/EvamariaTG/evamaria
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -100,11 +100,11 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/m2botzsupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/m2botz)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaSupport)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaUpdates)
 
 ## Credits 
-* [![M2](https://img.shields.io/static/v1?label=M2&message=devs&color=critical)](https://telegram.dog/admin_01)
+* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
 
 
 ## Thanks to 
@@ -116,4 +116,9 @@ python3 bot.py
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
 Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibite
+Selling The Codes To Other People For Money Is *Strictly Prohibited*.
+
+## Inspiration
+This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
+
+[![For Vaza](https://telegra.ph/file/e743b0c8a04252774bac2.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
